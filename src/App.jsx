@@ -30,8 +30,8 @@ const App = () => {
       <Sparkle />
       <Sparkle />
       <Sparkle />
-      <h1>animation,</h1>
-      <p>did you like it!</p>
+      <h1>HI </h1>
+      <p> love you!</p>
     </div>
   );
 };
